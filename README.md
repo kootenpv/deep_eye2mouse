@@ -1,5 +1,7 @@
 ## Deep Eye2Mouse
 
+Very Alpha.
+
 ### Installation
 
 Install the stuff in requirements, opencv2 is tough, good luck with tensorflow and keras as well.
@@ -24,7 +26,7 @@ Trains on your data.
 ### predict (go live with the model)
 
 ```bash
-python main.py predict
+python main.py predict deep1
 ```
 
 Press "s" to start predicting and moving the mouse around.
