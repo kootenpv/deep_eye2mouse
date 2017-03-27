@@ -1,0 +1,7 @@
+just
+tensorflow
+keras
+pynput
+cv2
+numpy
+matplotlib
