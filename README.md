@@ -1,6 +1,6 @@
 ## Deep Eye2Mouse
 
-Very Alpha.
+Very Alpha. TODO: Next step should be to create a balanced dataset!
 
 ### Installation
 
