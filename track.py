@@ -17,7 +17,7 @@ def get_interfaces():
 
 
 def set_mouse_position(x, y):
-    interfaces["mouse"].position = (x, y)
+    interfaces["mouse"].position = (int(x), int(y))
 
 
 def yield_images(interval=0.1):
